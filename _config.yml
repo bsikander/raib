@@ -1,17 +1,17 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: https://bsikander.github.io
+baseurl: /raib/
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: RAIB
+email: behroz89@gmail.com
+description: "We provide awesome services for your Amazon product."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Behroz Sikander
   pic: 1
-  position: Lead Designer
+  position: CEO
   social:
     - title: twitter
       url: #
@@ -20,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Zeeshan Sabir
   pic: 2
-  position: Lead Marketer
+  position: CBO
   social:
     - title: twitter
       url: #
@@ -31,9 +31,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Usama Yaseen
   pic: 3
-  position: Lead Developer
+  position: CTO
   social:
     - title: twitter
       url: #
